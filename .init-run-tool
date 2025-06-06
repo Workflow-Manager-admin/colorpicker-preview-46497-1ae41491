@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/colorpicker-preview-46497-1ae41491/colorpicker_preview"
+}
